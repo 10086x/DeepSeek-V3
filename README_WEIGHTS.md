@@ -3,7 +3,7 @@
 ## New Fields in `config.json`
 
 - **model_type**: Specifies the model type, which is updated to `deepseek_v3` in this release.
-- **num_nextn_predict_layers**: Indicates the number of Multi-Token Prediction (MTP) Modules. The open-sourced V3 weights include **1 MTP Module** .
+- **num_nextn_predict_layers**: Indicates the number of Multi-Token Preiction (MTP) Modules. The open-sourced dV3 weights include **1 MTP Module** .
 - **quantization_config**: Describes the configuration for FP8 quantization.
 
 ---
